@@ -108,6 +108,4 @@ The app will be running at:
 
 
 ---
-
-<p align="center">Made with ❤️ and a lot of creative prompts</p>
 <p align="center">⭐ Star this repo if you find it useful!</p>
