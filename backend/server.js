@@ -6,7 +6,7 @@ import mongoose from "mongoose";
 const app = express()
 
 app.use(cors({
-    origin:'http://localhost:5173'
+    origin:['http://localhost:5173','https://quotes-app-zeta-beryl.vercel.app']
 }))
 
 app.use(express.json());
