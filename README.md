@@ -103,9 +103,12 @@ The app will be running at:
 
 ---
 
-## 📷 Deployments
+## 📷 Deployment and Live Demo
 
-
+- This Project was hosted frontend and backend in sepearate platform
+- For frontend - **[Vercel](https://vercel.com/)**
+- For backend - **[Render](https://render.com/)**
+- To see the live demo please click **[here](https://quotes-app-zeta-beryl.vercel.app/)**
 
 ---
 <p align="center">⭐ Star this repo if you find it useful!</p>
